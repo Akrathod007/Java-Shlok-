@@ -14,7 +14,8 @@ public class First{
         System.out.println("\101"); // \ddd
         System.out.println("\044");
         System.out.println("\u004f"); // \\uxxxx
-
+        System.out.println(args[0]);
+        System.out.println(args[1]);
         /*
         
    /\
@@ -23,7 +24,9 @@ public class First{
  | [] |
  |____|
 
- 
+
         */
+
+ System.out.println("/\\");
     }
 }
