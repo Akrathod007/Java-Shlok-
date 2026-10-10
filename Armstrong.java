@@ -13,6 +13,7 @@ public class Armstrong {
             t1 = t1 / 10;
         }
 
+        
         System.out.println("Digit Count : "+dc);
 
         while(t2 > 0){
