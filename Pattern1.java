@@ -14,7 +14,6 @@ public class Pattern1 {
                 // System.out.print(j+" ");
                 // System.out.print((char)(64+j) + " ");
                 System.out.print((char)(64+i) + " ");
-
             }
             System.out.println();
         }
