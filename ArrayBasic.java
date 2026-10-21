@@ -1,7 +1,8 @@
 import java.util.Scanner;
 public class ArrayBasic {
     public static void main(String[] args) {
-        int[] arr = new int[20];
+        // int[] arr = new int[20];
+        int arr[] = new int[10];
         int i,sum = 0,eSum = 0,oSum = 0;
 
         Scanner sc = new Scanner(System.in);
